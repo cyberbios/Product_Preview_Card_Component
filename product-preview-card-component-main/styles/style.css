@@ -1,0 +1,22 @@
+body {
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 16px;
+    line-height: 20px;
+}
+
+.page {
+    min-width: 1100px;
+    max-width: 1600px;
+    margin: 0;
+}
+
+.header{
+    height: 100vh;
+    min-height: 580px;
+    max-height: 700px;
+    padding-top: 30px;
+    padding-left: 80px;
+    padding-right: 80px;
+    position: relative;
+    box-sizing: border-box;
+}
